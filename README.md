@@ -170,7 +170,7 @@ plt.bar(board['Hometown'],board['Average'])
 * Created a repository.
 #### 1.01
 * Uploaded the incomplete supplemental file (for tracking progress).
-#### 1.0
+#### 1.02
 * Deleted  the incomplete supplemental file.
 * Uploaded the completed supplemental file.
 #### 1.03
@@ -178,3 +178,5 @@ plt.bar(board['Hometown'],board['Average'])
 * Uploaded the corrected supplemental file.
 #### 1.04
 * Created a README file.
+#### 1.05
+* Made some updates to the README file.
